@@ -1,4 +1,4 @@
-# dockerhub-awscli-node-yarn
+# awscli-node-yarn
 
 Docker Image
  - FROM cypress/included:3.3.2
